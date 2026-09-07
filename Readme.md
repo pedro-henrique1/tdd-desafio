@@ -53,12 +53,17 @@ As seguintes implementações e testes foram desenvolvidos utilizando a metodolo
 
 **1. Clone o repositório**
 ```bash
+
+Baixar o projeto:
 git clone [https://github.com/pedro-henrique1/tdd-desafio](https://github.com/pedro-henrique1/tdd-desafio)
+
+Entrar no diretório do projeto:
 cd fc4-tdd
 
+Baixar as dependências:
 npm install && npm install --save-dev
 
-
+Rodar os testes:
 npm run test
 
 
